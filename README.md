@@ -1,0 +1,2 @@
+This purpose of this project is to create a non-functioning imitation of the Google homepage in order to develop HTML and CSS skills.
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
